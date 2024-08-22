@@ -1,18 +1,4 @@
-///////Eu li as regras///////////
-Nome: Igor Cristian Acácio Josafá
-Matricula: 105489
-
-------------------------------------------------------------------
-Fontes de consulta:
-- https://demonstrations.wolfram.com/QuadtreeSubdivision/
-- http://www.decom.ufop.br/guilherme/BCC203/geral/ed2-introducao-estruturas-dados-espaciais-victor.pdf
-- https://www.youtube.com/watch?v=jxbDYxm-pXg
-- https://www.youtube.com/watch?v=Rf3wl1UA9Uk
-- https://www.geeksforgeeks.org/quad-tree/
-- https://42bits.medium.com/analisando-algoritmos-quadtree-2fe86394f624
-- http://www.inf.ufsc.br/~aldo.vw/visao/1998/harley/quadtree.htm
-
-------------------------------------------------------------------
+**Compressão e descompressão de imagens PPM**
 
 Funções e funcionalidades: 
 
